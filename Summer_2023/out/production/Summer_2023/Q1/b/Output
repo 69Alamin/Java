@@ -1,0 +1,5 @@
+Enter two integers: 2 e -------- C D
+Enter two integers: e 5 -------- B D
+Enter two integers: f f --------B D
+Enter two integers: 5 0 --------A  D
+Enter two integers: 2 2 -------- Result : 1   D   E
